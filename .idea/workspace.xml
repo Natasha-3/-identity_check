@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4107006-90df-4255-b409-bd05c7f776d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +31,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RunManager">
+    <configuration name="123.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/123.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.123.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -33,10 +52,41 @@
       <option name="presentableId" value="Default" />
       <updated>1611932908124</updated>
       <workItem from="1611932911853" duration="1389000" />
+      <workItem from="1612078086987" duration="1630000" />
+      <workItem from="1612193308880" duration="683000" />
+      <workItem from="1612691631868" duration="6039000" />
+      <workItem from="1612973156348" duration="4690000" />
+      <workItem from="1613197083597" duration="66000" />
+      <workItem from="1613197163338" duration="132000" />
+      <workItem from="1613209759923" duration="274000" />
+      <workItem from="1613211216319" duration="3351000" />
+      <workItem from="1613215785073" duration="187000" />
+      <workItem from="1613287957488" duration="3853000" />
+      <workItem from="1613391575100" duration="594000" />
+      <workItem from="1613411584473" duration="1957000" />
+      <workItem from="1613574891096" duration="1136000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1612198500298">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1612198500298" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1612198500298">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1612198500298" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1612198500298">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1612198500298" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1612198500298">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1612198500298" />
   </component>
 </project>
